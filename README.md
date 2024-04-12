@@ -9,7 +9,7 @@ In this repository we provide materials for customer and community facing sessio
 
 [RAP100 - \[Beginner\] Build SAP Fiori Apps with the ABAP RESTful Application Programming Model (RAP)](https://github.com/stanersk/abap-platform-rap100)  
 
-[RAP110 - \[Intermediate\] Build SAP Fiori Apps with the ABAP RESTful Application Programming Model (RAP)](https://github.com/SAP-samples/abap-platform-rap110)
+[RAP110 - \[Intermediate\] Build SAP Fiori Apps with the ABAP RESTful Application Programming Model (RAP)](https://github.com/stanersk/abap-platform-rap110)
 
 [RAP400 - Writing ABAP Unit Tests for Apps built with the ABAP RESTful Application Programming Model (RAP)](/rap4xx/rap400#readme)
 
@@ -21,7 +21,7 @@ In this repository we provide materials for customer and community facing sessio
 
 [RAP620 - Side-by-side extensibility with SAP BTP ABAP Environment](/rap6xx/rap620#readme)
 
-[RAP630 - Use ABAP Cloud for developer extensibility (extend an SAP app)](https://github.com/SAP-samples/abap-platform-rap630)
+[RAP630 - Use ABAP Cloud for developer extensibility (extend an SAP app)](https://github.com/stanersk/abap-platform-rap630)
 
 
 ## Requirements
